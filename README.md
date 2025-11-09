@@ -9,7 +9,7 @@
 
 Проверка онлайн-калькулятора. Проверка расчетной процентной ставки по кредиту.
 
-![img](/Users/ksenialysenko/Desktop/kit/git/3/calc.jpg)
+![img](../kit/git/3/calc.jpg)
 
 **Условия:**
 
@@ -30,7 +30,7 @@
 
 1. Построить диаграмму переходов и состояний для страницы авторизации <https://applicant.21-school.ru/auth>.
 
-![img](/Users/ksenialysenko/Desktop/kit/git/3/flow.jpg)
+![img](../kit/git/3/flow.jpg)
 
 ### **Задание 4. Техника уникальных пар**
 
